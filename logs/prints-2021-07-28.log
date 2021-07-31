@@ -1,0 +1,6 @@
+14:01:58.242 [main] INFO  com.php.base.BaseClass - config readed successfully
+14:01:58.243 [main] INFO  com.php.base.BaseClass - Trying to read config and test is about to start
+14:01:58.244 [main] INFO  com.php.base.BaseClass - config readed successfully
+14:01:58.245 [main] INFO  com.php.base.BaseClass - Starting profile creation test of Application
+14:02:00.943 [main] INFO  com.php.base.BaseClass - validation of My Account Login is successful
+14:02:00.944 [main] INFO  com.php.base.BaseClass - Starting login into Application
